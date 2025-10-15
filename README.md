@@ -1,6 +1,6 @@
-<div align="center">
+<div align="center" width="50">
 
-<img src="https://i.ibb.co/5cN2ftt/purple-banner-ai.png" width="100%" height="220px" alt="Layan Alqahtani Banner"/>  
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2V0NmgwdmNlamF0Zzd0dHZiNDB1YXJ0ZnN4c3Fua2F1dXAxMjZkbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif" width="90%" height="250px"/> <br>
 
 ### ✨ Hi there, I’m **Layan Alqahtani**  
 🎓 Computer Science student — AI track  
@@ -13,11 +13,10 @@
 
 ### 💜 About Me
 
-- 👩🏻‍💻 I’m passionate about **Artificial Intelligence** and **Machine Learning**.  
+- 👩🏻‍💻 Passionate about **Artificial Intelligence** and **Machine Learning**.  
 - 🐍 I love coding in **Python** and exploring **Java** projects.  
 - 🤖 Currently learning **Deep Learning** and **Computer Vision**.  
 - 🎯 Goal: Build AI models that make real-world impact.  
-- 💬 Ask me about AI, programming, or tech tips.  
 - ☕ Fun fact: I debug better with coffee in hand! ☕  
 
 ---
@@ -38,22 +37,47 @@
 
 ---
 
-### 💻 Featured Projects
+### 💻 Featured Projects  
 
-- 🤖 [AI Face Detection Project](https://github.com/Layan810/Face-Detection)
-- 🧠 [Machine Learning Model for Sentiment Analysis](https://github.com/Layan810/Sentiment-Model)
-- ☁️ [Weather App using API & Python](https://github.com/Layan810/Weather-App)
-- 💬 [Chatbot Project - NLP](https://github.com/Layan810/Chatbot-AI)
+#### 🎓 Graduation Project — AI-Based Detection System  
+مشروع تخرّجي الذي طوّرت فيه نظامًا يعتمد على **الذكاء الاصطناعي** لتحليل البيانات واتخاذ قرارات ذكية.  
+- 🧠 استخدمت: Python, TensorFlow, OpenCV  
+- 🎯 الهدف: تحسين الدقة في تصنيف الصور وتحليل النتائج في الوقت الحقيقي  
+- 🔗 [View Repository](https://github.com/Layan810/Graduation-Project)
 
 ---
 
-### 📊 GitHub Stats
+#### 🧪 KAUST Training Project — Smart Vision Prototype  
+مشروع تدريبي خلال فترة التعاون مع **جامعة كاوست KAUST**، ركّز على تطوير نموذج رؤية حاسوبية ذكي.  
+- 🤖 استخدمت: Python, Computer Vision, Deep Learning  
+- 🧩 النتيجة: نظام قادر على التعرف على الأنماط بدقة عالية  
+- 🔗 [View Repository](https://github.com/Layan810/KAUST-Training-Project)
+
+---
+
+#### 🏆 Sky AI Challenge (Tuwaiq Academy)  
+مشروع قدّمته في نهائيات **دوري سكاي للذكاء الاصطناعي** مع **أكاديمية طويق**.  
+- 🚀 استخدمت: Machine Learning, NLP, Data Analysis  
+- 🥇 ركّز المشروع على استخدام الذكاء الاصطناعي لحل مشكلة واقعية  
+- 🔗 [View Repository](https://github.com/Layan810/SkyAI-Challenge)
+
+---
+
+### 🌱 Areas I’d Love to Explore Next  
+
+- 🧠 تعميق معرفتي في **Deep Learning**  
+- 👁️‍🗨️ تطوير حلول أكثر في **Computer Vision**  
+- 🇸🇦 إنشاء مشاريع ذكاء اصطناعي **تخدم اللغة العربية والمجتمع السعودي**
+
+---
+
+### 📊 GitHub Stats  
 
 <div align="center">
 
-![Layan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Layan810&show_icons=true&theme=dracula&title_color=ffb6c1&icon_color=d8bfd8&text_color=fce4ec&bg_color=282a36)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Layan810&layout=compact&theme=dracula&title_color=ffb6c1&text_color=fce4ec&bg_color=282a36)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Layan810&theme=dracula&background=282a36&ring=ffb6c1&fire=ffb6c1&currStreakLabel=ffb6c1)
+<img src="https://github-readme-stats.vercel.app/api?username=Layan810&show_icons=true&theme=radical&title_color=ffb6c1&icon_color=d8bfd8&text_color=fce4ec&bg_color=282a36" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Layan810&layout=compact&theme=radical&title_color=ffb6c1&text_color=fce4ec&bg_color=282a36" width="48%" />  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Layan810&theme=radical&background=282a36&ring=ffb6c1&fire=ffb6c1&currStreakLabel=ffb6c1" width="96%" />
 
 </div>
 
@@ -71,5 +95,5 @@
 
 ---
 
-> 💬 *"Turning ideas into intelligent code ✨"*  
+> 💬 *“Turning ideas into intelligent code ✨”*  
 > 🌸 *“Building the future with AI, one line at a time 💻”*
