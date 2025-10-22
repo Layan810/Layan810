@@ -87,7 +87,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ffb6c1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/layan-alqahtani)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ffb6c1?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/layan-saeed)  
 [![Gmail](https://img.shields.io/badge/Gmail-d8bfd8?style=for-the-badge&logo=gmail&logoColor=white)](mailto:layansaeed63@gmail.com)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-eba6d2?style=for-the-badge&logo=about.me&logoColor=white)](https://layan810.github.io/)
 
