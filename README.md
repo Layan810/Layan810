@@ -5,7 +5,7 @@
 ### ✨ Hi there, I’m **Layan Alqahtani**  
 🎓 Computer Science student — AI track  
 💻 Programmer | Python & Java Developer | AI Enthusiast  
-🌍 Based in Saudi Arabia 🇸🇦  
+🌍 Based in 'ABHA' Saudi Arabia 🇸🇦  
 
 </div>
 
